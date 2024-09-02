@@ -61,4 +61,15 @@ Sigue estos pasos para configurar el proyecto en tu entorno local:
 - Esto generará los archivos de construcción optimizados en el directorio dist. Y con eso podrias ver algo como esto
 
 
- ![image](https://github.com/user-attachments/assets/6af4222a-b50d-41b8-9e36-645bb4a45d25)
+![image](https://github.com/user-attachments/assets/fa167831-d9c6-4fc6-9d46-6d2f1537366a)
+
+
+
+   - Para entrar al cliente debes ir al navegador y entrar a la siguiente dirección: [http://localhost:5173/tasks](http://localhost:5173) 
+
+   - Para entrar al servidor y ver la documentación debes ir al navegador y entrar a la siguiente dirección: [http://localhost:8000/docs/](http://localhost:8000/docs/)
+
+   - Para agregar una nueva tarea solo tiene que undir en el botón crear tarea
+
+
+![image](https://github.com/user-attachments/assets/6af4222a-b50d-41b8-9e36-645bb4a45d25)
