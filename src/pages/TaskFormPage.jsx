@@ -79,7 +79,7 @@ export function TaskFormPage() {
         </div>
 
         <button className="bg-indigo-500 p-3 rounded-lg block w-full mt-3">
-          Save
+          Subir
         </button>
       </form>
 
