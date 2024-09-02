@@ -89,7 +89,7 @@ export function TaskFormPage() {
           <button
             className="bg-red-500 p-3 rounded-lg w-48 mt-3"
             onClick={async () => {
-              const accepted = window.confirm("Are you sure?");
+              const accepted = window.confirm("Estas seguro de eliminar");
               if (accepted) {
                 await deleteTask(params.id);
                 toast.success("Tarea Eliminada", {
@@ -103,7 +103,7 @@ export function TaskFormPage() {
               }
             }}
           >
-            delete
+            eliminar
           </button>
         </div>
       )}
